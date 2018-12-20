@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Workout Diary</string>
+    <string name="day_1">Day 1</string>
+    <string name="tricep_legs">Tricep + Legs</string>
+    <string name="done">DONE</string>
+    <string name="title_activity_cardio_activity">cardio_activity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+</resources>
